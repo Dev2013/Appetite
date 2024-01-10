@@ -1,0 +1,57 @@
+{
+    "id": "424905",
+    "name": "LunchBox - Meals and Thalis",
+    "cloudinaryImageId": "aarfqqivinxwd6wbz6fi",
+    "locality": "Prem Nagar",
+    "areaName": "Model Town",
+    "costForTwo": "₹200 for two",
+    "cuisines": [
+        "Biryani",
+        "North Indian",
+        "Punjabi",
+        "Healthy Food",
+        "Desserts",
+        "Beverages"
+    ],
+    "avgRating": 4.4,
+    "parentId": "4925",
+    "avgRatingString": "4.4",
+    "totalRatingsString": "500+",
+    "sla": {
+        "deliveryTime": 18,
+        "lastMileTravel": 0.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "18 mins",
+        "lastMileTravelString": "0.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+        "nextCloseTime": "2024-01-10 03:00:00",
+        "opened": true
+    },
+    "badges": {},
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+        "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+        }
+    },
+    "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹159"
+    },
+    "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+        }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {}
+}
